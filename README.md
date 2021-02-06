@@ -1,3 +1,3 @@
 # SQL-Projects
-SQL, Funnel, Churn Rate, Customer Journey
+SQL: Usage Funnels, Churn Rate, Marketing Attribution
 Codecademy Projects from Dec 2020
